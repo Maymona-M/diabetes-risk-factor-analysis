@@ -204,6 +204,8 @@ Identifies which variables remain significant predictors of diabetes outcome whe
 
 An interactive dashboard was built in Power BI to communicate findings to three stakeholder groups:
 
+![Diabetes Risk Factor Analysis Dashboard](figures/dashboard.png)
+
 | Stakeholder | What They Use |
 |---|---|
 | Clinic Administrators | KPI cards (total patients, diabetic count, diabetes rate %) to assess screening scale |
