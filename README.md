@@ -255,7 +255,7 @@ Avg Age Diabetic       = CALCULATE(AVERAGE(DiabetesData[Age]), DiabetesData[Outc
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/diabetes-risk-factor-analysis.git
+git clone https://github.com/Maymona-M/diabetes-risk-factor-analysis.git
 cd diabetes-risk-factor-analysis
 ```
 
